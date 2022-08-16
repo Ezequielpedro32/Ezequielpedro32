@@ -4,4 +4,3 @@
 - Eu estou aprendendo a programar recentemente a linguagem de JavaScript 
 - Sou um garoto acadêmico,com diversos objetivos
 - Tenho 15 anos de vida
-- 
